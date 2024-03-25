@@ -1,5 +1,5 @@
-#Zadanie
-#SIMPLECHAT_NIO
+# Zadanie
+# SIMPLECHAT_NIO
 
 Napisać serwer czatu, który:
 obsługuje logowanie klientów (tylko id, bez hasła),
