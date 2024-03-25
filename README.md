@@ -1,5 +1,7 @@
 # Zadanie
-# SIMPLECHAT_NIO
+## SIMPLECHAT_NIO
+
+### This program requires jdk1.8.0_321
 
 Napisać serwer czatu, który:
 obsługuje logowanie klientów (tylko id, bez hasła),
