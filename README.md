@@ -2,6 +2,7 @@
 ## SIMPLECHAT_NIO
 
 ### This program requires jdk1.8.0_321
+# File ChatTest.txt Should be moved to user directory. For example: C:/Users/Bob
 
 Napisać serwer czatu, który:
 obsługuje logowanie klientów (tylko id, bez hasła),

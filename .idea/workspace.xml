@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5442c4b9-6b7c-4c97-bb7e-dbc898187860" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/zad1/ChatClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad1/ChatClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad1/ChatClientTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad1/ChatClientTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad1/ChatServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/zad1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zad1/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="5442c4b9-6b7c-4c97-bb7e-dbc898187860" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +102,7 @@
       <updated>1711473851235</updated>
       <workItem from="1711473853580" duration="4687000" />
       <workItem from="1712052484551" duration="783000" />
-      <workItem from="1712139806511" duration="24651000" />
+      <workItem from="1712139806511" duration="25336000" />
     </task>
     <servers />
   </component>
